@@ -1,0 +1,3 @@
+[2026-02-28T12:43:05.435+0000] {local_task_job_runner.py:120} INFO - ::group::Pre task execution logs
+[2026-02-28T12:43:05.460+0000] {taskinstance.py:2066} INFO - Dependencies not met for <TaskInstance: flights_ops_medallion_pipe.bronze_ingest scheduled__2026-02-27T20:30:00+00:00 [success]>, dependency 'Task Instance State' FAILED: Task is in the 'success' state.
+[2026-02-28T12:43:05.467+0000] {local_task_job_runner.py:163} INFO - Task is not able to be run
