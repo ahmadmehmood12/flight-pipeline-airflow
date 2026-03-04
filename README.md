@@ -152,8 +152,9 @@ CREATE TABLE FLIGHT_KPIS (
 
 ## 👨‍💻 Author
 
-**Your Name**
+Name : Ahmad Mehmood 
 💼 Data Engineering Associate
+
 📧 [ahmadmehmood1252@gmail.com](mailto:ahmadmehmood1252@gmail.com)
 🌐 [https://www.linkedin.com/in/ahmadmehmood1252/](#)
 
